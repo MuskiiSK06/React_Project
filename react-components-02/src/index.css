@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.card{
+    padding: 1rem;
+    margin: 2rem;
+    background-color: lightblue;
+    border-radius: 0.6rem;
+}
+
+.nav{
+    border-radius: 0.9rem;
+    padding: 1rem;
+    margin: 0.7rem;
+    background-color: lightgray;
+}

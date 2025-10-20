@@ -1,0 +1,19 @@
+.header{
+    padding: 1rem;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+button{
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+    border: none;
+    font-size: 1.1rem;
+    background-color: gray;
+    color: white;
+}

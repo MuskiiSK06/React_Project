@@ -1,0 +1,14 @@
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.button{
+    padding: 1rem 2rem;
+    border-radius: 2rem;
+    border: none;
+    background-color: lightgrey;
+    color: black;
+    cursor: pointer;
+}
